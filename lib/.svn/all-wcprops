@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/studio/!svn/ver/1874/redmine/trunk/vendor/plugins/redmine_require_closing_note/lib
+END
+require_closing_note_patch.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/studio/!svn/ver/1874/redmine/trunk/vendor/plugins/redmine_require_closing_note/lib/require_closing_note_patch.rb
+END

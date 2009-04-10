@@ -1,0 +1,28 @@
+8
+
+dir
+1874
+http://svnserver.tukaiz.com/svn/studio/redmine/trunk/vendor/plugins/redmine_require_closing_note/lib
+http://svnserver.tukaiz.com/svn/studio
+
+
+
+2009-04-06T19:07:55.514348Z
+1874
+awalters
+
+
+svn:special svn:externals svn:needs-lock
+
+require_closing_note_patch.rb
+file
+
+
+
+
+2009-04-06T18:30:07.000000Z
+98b665e55bffd47e4f9717ef5a73d660
+2009-04-06T19:07:55.514348Z
+1874
+awalters
+

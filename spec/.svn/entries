@@ -1,0 +1,43 @@
+8
+
+dir
+1874
+http://svnserver.tukaiz.com/svn/studio/redmine/trunk/vendor/plugins/redmine_require_closing_note/spec
+http://svnserver.tukaiz.com/svn/studio
+
+
+
+2009-04-06T19:07:55.514348Z
+1874
+awalters
+
+
+svn:special svn:externals svn:needs-lock
+
+models
+dir
+
+spec_helper.rb
+file
+
+
+
+
+2009-04-06T15:11:08.000000Z
+e9e2491b1b66f0cd750e2462ed17bf97
+2009-04-06T19:07:55.514348Z
+1874
+awalters
+
+spec.opts
+file
+
+
+
+
+2009-04-01T21:23:59.000000Z
+7ba915c5b137d2b709a97e441d2c5b13
+2009-04-06T19:07:55.514348Z
+1874
+awalters
+
